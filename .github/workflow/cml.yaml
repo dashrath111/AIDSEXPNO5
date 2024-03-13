@@ -1,4 +1,4 @@
-name: CICDpipeline
+name: experimentno.5
 on: [push]
 jobs:
   run:
